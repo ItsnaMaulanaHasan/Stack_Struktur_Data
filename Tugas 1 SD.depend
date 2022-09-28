@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664363224 source:c:\users\itsna maulana\documents\latihan cpp\tugas 1 sd\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
